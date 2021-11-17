@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AppAndroidCrudFirebase</string>
+
+    <array name="enderecoArray">
+        <item>Porto Alegre</item>
+        <item>Canoas</item>
+        <item>Caxias</item>
+        <item>Pelotas</item>
+    </array>
 </resources>

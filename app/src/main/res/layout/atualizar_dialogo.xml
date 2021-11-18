@@ -10,7 +10,7 @@
         android:id="@+id/editTextNome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Müşteri Ad/Soyad Giriniz" />
+        android:hint="Insira o nome/sobrenome do cliente"/>
 
     <Spinner
         android:id="@+id/spinnerAtualizar"
@@ -29,7 +29,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="TAMAM" />
+            android:text="OK" />
 
 
     </LinearLayout>
